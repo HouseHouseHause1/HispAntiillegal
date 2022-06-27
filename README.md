@@ -1,0 +1,2 @@
+# HispAntiillegal
+Another Antiillegal plugin.
