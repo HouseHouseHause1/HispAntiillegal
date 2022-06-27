@@ -1,0 +1,5 @@
+name: HisparquiaUnbreakablePatch
+version: '1.0-BETA'
+main: org.hisparquia.unbreakablepatch.UnbreakablePatch
+authors: [ House 1 ]
+description: Remove unbreakable items
